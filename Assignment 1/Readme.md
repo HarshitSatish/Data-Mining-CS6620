@@ -13,9 +13,12 @@ The raw data file is at iris/iris.data relative to the notebook.
 Project Structure
 .
 ├── Assignment1.ipynb     # main notebook: data loading, EDA, pipeline, model, evaluation
+
 ├── iris/
-│   └── iris.data          # UCI Iris dataset (not tracked / download separately if excluded)
+│   └── iris.data          # Iris dataset
+
 ├── requirements.txt
+
 └── README.md
 
 Setup
